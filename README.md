@@ -199,3 +199,11 @@ in big scale app we can make transactional, logical data, calculated in backend/
 - Background Fetching:
   Use React Query’s background fetching capabilities to update stale data while keeping the UI responsive.
 
+![app-screenshot1](https://github.com/user-attachments/assets/7ee57dc0-e3e0-4088-848c-0029d50a45f6)
+![app-screenshot2](https://github.com/user-attachments/assets/62743300-de54-4a0e-b004-5e98fa5bab91)
+![app-screenshot3](https://github.com/user-attachments/assets/15ca7895-a425-4844-a6d2-8e9cdbd7a7c3)
+![app-screenshot4](https://github.com/user-attachments/assets/8708da1b-73ad-4276-8ad3-6f99801a80c4)
+
+
+
+
